@@ -1,0 +1,26 @@
+body{
+    background-image: url(/IMG/Hero.jpg);
+
+}
+header {
+    background: rgba(0,0,0,0.7);
+    color: #1f8f89;
+    padding: 20px 0;
+    text-align: center;
+}
+header nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 10px 0 0 0;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+header nav ul li a {
+    color:#fff;
+    text-decoration: none;
+    font-weight: bold;
+}
+.inicio {
+    background: rgba(255, 255, 255, 0.8)
+}
