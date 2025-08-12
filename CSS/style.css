@@ -24,3 +24,21 @@ header nav ul li a {
 .inicio {
     background: rgba(255, 255, 255, 0.8)
 }
+.contenedor {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+.contenedor h3 {
+    color: blue;
+}
+.contenedor p {
+    color: white;
+}
+.title {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+} .enlaces-redes {
+    
+}
